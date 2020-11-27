@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\C#\OOP\yapiciMetotlarUygulama\bin\Debug\netcoreapp3.1\yapiciMetotlarUygulama.exe
+C:\Users\asus\Desktop\C#\OOP\yapiciMetotlarUygulama\bin\Debug\netcoreapp3.1\yapiciMetotlarUygulama.deps.json
+C:\Users\asus\Desktop\C#\OOP\yapiciMetotlarUygulama\bin\Debug\netcoreapp3.1\yapiciMetotlarUygulama.runtimeconfig.json
+C:\Users\asus\Desktop\C#\OOP\yapiciMetotlarUygulama\bin\Debug\netcoreapp3.1\yapiciMetotlarUygulama.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C#\OOP\yapiciMetotlarUygulama\bin\Debug\netcoreapp3.1\yapiciMetotlarUygulama.dll
+C:\Users\asus\Desktop\C#\OOP\yapiciMetotlarUygulama\bin\Debug\netcoreapp3.1\yapiciMetotlarUygulama.pdb
+C:\Users\asus\Desktop\C#\OOP\yapiciMetotlarUygulama\obj\Debug\netcoreapp3.1\yapiciMetotlarUygulama.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C#\OOP\yapiciMetotlarUygulama\obj\Debug\netcoreapp3.1\yapiciMetotlarUygulama.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C#\OOP\yapiciMetotlarUygulama\obj\Debug\netcoreapp3.1\yapiciMetotlarUygulama.AssemblyInfo.cs
+C:\Users\asus\Desktop\C#\OOP\yapiciMetotlarUygulama\obj\Debug\netcoreapp3.1\yapiciMetotlarUygulama.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\OOP\yapiciMetotlarUygulama\obj\Debug\netcoreapp3.1\yapiciMetotlarUygulama.dll
+C:\Users\asus\Desktop\C#\OOP\yapiciMetotlarUygulama\obj\Debug\netcoreapp3.1\yapiciMetotlarUygulama.pdb
+C:\Users\asus\Desktop\C#\OOP\yapiciMetotlarUygulama\obj\Debug\netcoreapp3.1\yapiciMetotlarUygulama.genruntimeconfig.cache
