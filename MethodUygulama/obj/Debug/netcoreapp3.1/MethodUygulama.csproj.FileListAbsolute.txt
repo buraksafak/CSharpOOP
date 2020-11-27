@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\C#\OOP\MethodUygulama\obj\Debug\netcoreapp3.1\MethodUygulama.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C#\OOP\MethodUygulama\obj\Debug\netcoreapp3.1\MethodUygulama.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C#\OOP\MethodUygulama\obj\Debug\netcoreapp3.1\MethodUygulama.AssemblyInfo.cs
+C:\Users\asus\Desktop\C#\OOP\MethodUygulama\obj\Debug\netcoreapp3.1\MethodUygulama.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\OOP\MethodUygulama\bin\Debug\netcoreapp3.1\MethodUygulama.exe
+C:\Users\asus\Desktop\C#\OOP\MethodUygulama\bin\Debug\netcoreapp3.1\MethodUygulama.deps.json
+C:\Users\asus\Desktop\C#\OOP\MethodUygulama\bin\Debug\netcoreapp3.1\MethodUygulama.runtimeconfig.json
+C:\Users\asus\Desktop\C#\OOP\MethodUygulama\bin\Debug\netcoreapp3.1\MethodUygulama.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C#\OOP\MethodUygulama\bin\Debug\netcoreapp3.1\MethodUygulama.dll
+C:\Users\asus\Desktop\C#\OOP\MethodUygulama\bin\Debug\netcoreapp3.1\MethodUygulama.pdb
+C:\Users\asus\Desktop\C#\OOP\MethodUygulama\obj\Debug\netcoreapp3.1\MethodUygulama.dll
+C:\Users\asus\Desktop\C#\OOP\MethodUygulama\obj\Debug\netcoreapp3.1\MethodUygulama.pdb
+C:\Users\asus\Desktop\C#\OOP\MethodUygulama\obj\Debug\netcoreapp3.1\MethodUygulama.genruntimeconfig.cache
