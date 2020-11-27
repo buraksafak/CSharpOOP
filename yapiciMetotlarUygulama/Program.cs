@@ -25,7 +25,7 @@ namespace yapiciMetotlarUygulama
 
 
 
-        public Product(int productId)
+        public Product(int productId):this()
         {
             this.ProductId = productId;
         }
