@@ -1,0 +1,17 @@
+C:\Users\asus\Desktop\C#\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C#\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C#\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\asus\Desktop\C#\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\OOP\ClassUygulama\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\asus\Desktop\C#\OOP\ClassUygulama\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\asus\Desktop\C#\OOP\ClassUygulama\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\asus\Desktop\C#\OOP\ClassUygulama\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C#\OOP\ClassUygulama\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\asus\Desktop\C#\OOP\ClassUygulama\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\asus\Desktop\C#\OOP\ClassUygulama\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C#\OOP\ClassUygulama\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C#\OOP\ClassUygulama\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\asus\Desktop\C#\OOP\ClassUygulama\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\OOP\ClassUygulama\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\asus\Desktop\C#\OOP\ClassUygulama\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\asus\Desktop\C#\OOP\ClassUygulama\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
