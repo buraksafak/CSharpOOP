@@ -15,7 +15,7 @@ namespace yapiciMetotlarUygulama
     { //ürün bilgilerini tutacak olan sınıf.
 
 
-        // yapıcı metot. (ctor kısayolu)
+        // yapıcı metod. (ctor kısayolu)
 
         public Product()
         {
@@ -61,7 +61,7 @@ namespace yapiciMetotlarUygulama
 
             var p = new Product();
 
-            p.Comments[0] = c1; //oluşturduğumuz comments dizisinin 0. indisine c1 nesnesindeki yorumu ekledik.
+            p.Comments[0] = c1; //oluşturduğumuz comments dizisinin 0. indisine c1 nesnesindeki yorumu ekledik..
 
             Console.WriteLine(p.ProductId);
             Console.WriteLine(p.Name);
