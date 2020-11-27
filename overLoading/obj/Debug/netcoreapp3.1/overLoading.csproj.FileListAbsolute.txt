@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\C#\OOP\overLoading\bin\Debug\netcoreapp3.1\overLoading.exe
+C:\Users\asus\Desktop\C#\OOP\overLoading\bin\Debug\netcoreapp3.1\overLoading.deps.json
+C:\Users\asus\Desktop\C#\OOP\overLoading\bin\Debug\netcoreapp3.1\overLoading.runtimeconfig.json
+C:\Users\asus\Desktop\C#\OOP\overLoading\bin\Debug\netcoreapp3.1\overLoading.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C#\OOP\overLoading\bin\Debug\netcoreapp3.1\overLoading.dll
+C:\Users\asus\Desktop\C#\OOP\overLoading\bin\Debug\netcoreapp3.1\overLoading.pdb
+C:\Users\asus\Desktop\C#\OOP\overLoading\obj\Debug\netcoreapp3.1\overLoading.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C#\OOP\overLoading\obj\Debug\netcoreapp3.1\overLoading.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C#\OOP\overLoading\obj\Debug\netcoreapp3.1\overLoading.AssemblyInfo.cs
+C:\Users\asus\Desktop\C#\OOP\overLoading\obj\Debug\netcoreapp3.1\overLoading.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\OOP\overLoading\obj\Debug\netcoreapp3.1\overLoading.dll
+C:\Users\asus\Desktop\C#\OOP\overLoading\obj\Debug\netcoreapp3.1\overLoading.pdb
+C:\Users\asus\Desktop\C#\OOP\overLoading\obj\Debug\netcoreapp3.1\overLoading.genruntimeconfig.cache
