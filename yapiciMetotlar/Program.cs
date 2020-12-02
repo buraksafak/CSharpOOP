@@ -5,7 +5,7 @@ namespace YapiciMetotlar
     class Araba
     {
 
-        public Araba() // Yapıcı metod, sınıf ile  aynı isimde olmak zorunda.
+        public Araba() // Yapıcı metod, sınıf ile  aynı isimde olmak zorundadır.
         {
             Console.WriteLine("Yapıcı metot çağırıldı.(Parametre almayan)");
             this.MaxHiz = 150;
