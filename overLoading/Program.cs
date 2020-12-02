@@ -25,7 +25,7 @@ namespace OverLoading
                 if(km > this.MaxHiz)
                     Console.WriteLine("Max. hızı aşamayız");
                 else
-                    Console.WriteLine($"{this.Marka} {this.Model} {this.MaxHiz} ulaştırılıyor.");
+                    Console.WriteLine($"{this.Marka} {this.Model} {this.MaxHiz} hıza ulaştırılıyor.");
             }
 
 
