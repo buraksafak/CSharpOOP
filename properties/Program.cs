@@ -21,9 +21,7 @@ namespace Properties
                     _name = value;
                 else
                     throw new Exception("Name alanını boş bırakamazsınız"); //hata mesajı
-
             }
-
         }
 
         //Price 
