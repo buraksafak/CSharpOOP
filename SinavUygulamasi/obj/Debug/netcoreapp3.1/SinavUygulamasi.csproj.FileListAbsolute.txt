@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\C#\OOP\SinavUygulamasi\obj\Debug\netcoreapp3.1\SinavUygulamasi.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C#\OOP\SinavUygulamasi\obj\Debug\netcoreapp3.1\SinavUygulamasi.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C#\OOP\SinavUygulamasi\obj\Debug\netcoreapp3.1\SinavUygulamasi.AssemblyInfo.cs
+C:\Users\asus\Desktop\C#\OOP\SinavUygulamasi\obj\Debug\netcoreapp3.1\SinavUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\OOP\SinavUygulamasi\bin\Debug\netcoreapp3.1\SinavUygulamasi.exe
+C:\Users\asus\Desktop\C#\OOP\SinavUygulamasi\bin\Debug\netcoreapp3.1\SinavUygulamasi.deps.json
+C:\Users\asus\Desktop\C#\OOP\SinavUygulamasi\bin\Debug\netcoreapp3.1\SinavUygulamasi.runtimeconfig.json
+C:\Users\asus\Desktop\C#\OOP\SinavUygulamasi\bin\Debug\netcoreapp3.1\SinavUygulamasi.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C#\OOP\SinavUygulamasi\bin\Debug\netcoreapp3.1\SinavUygulamasi.dll
+C:\Users\asus\Desktop\C#\OOP\SinavUygulamasi\bin\Debug\netcoreapp3.1\SinavUygulamasi.pdb
+C:\Users\asus\Desktop\C#\OOP\SinavUygulamasi\obj\Debug\netcoreapp3.1\SinavUygulamasi.dll
+C:\Users\asus\Desktop\C#\OOP\SinavUygulamasi\obj\Debug\netcoreapp3.1\SinavUygulamasi.pdb
+C:\Users\asus\Desktop\C#\OOP\SinavUygulamasi\obj\Debug\netcoreapp3.1\SinavUygulamasi.genruntimeconfig.cache
