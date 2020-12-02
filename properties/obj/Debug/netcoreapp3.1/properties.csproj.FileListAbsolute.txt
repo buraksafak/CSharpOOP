@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\C#\OOP\properties\bin\Debug\netcoreapp3.1\properties.exe
+C:\Users\asus\Desktop\C#\OOP\properties\bin\Debug\netcoreapp3.1\properties.deps.json
+C:\Users\asus\Desktop\C#\OOP\properties\bin\Debug\netcoreapp3.1\properties.runtimeconfig.json
+C:\Users\asus\Desktop\C#\OOP\properties\bin\Debug\netcoreapp3.1\properties.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C#\OOP\properties\bin\Debug\netcoreapp3.1\properties.dll
+C:\Users\asus\Desktop\C#\OOP\properties\bin\Debug\netcoreapp3.1\properties.pdb
+C:\Users\asus\Desktop\C#\OOP\properties\obj\Debug\netcoreapp3.1\properties.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C#\OOP\properties\obj\Debug\netcoreapp3.1\properties.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C#\OOP\properties\obj\Debug\netcoreapp3.1\properties.AssemblyInfo.cs
+C:\Users\asus\Desktop\C#\OOP\properties\obj\Debug\netcoreapp3.1\properties.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\OOP\properties\obj\Debug\netcoreapp3.1\properties.dll
+C:\Users\asus\Desktop\C#\OOP\properties\obj\Debug\netcoreapp3.1\properties.pdb
+C:\Users\asus\Desktop\C#\OOP\properties\obj\Debug\netcoreapp3.1\properties.genruntimeconfig.cache

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace yapiciMetotlarUygulama
+namespace YapiciMetotlarUygulama
 {
 
     class Comment

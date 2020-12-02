@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace yapiciMetotlar
+namespace YapiciMetotlar
 {
     class Araba
     {
