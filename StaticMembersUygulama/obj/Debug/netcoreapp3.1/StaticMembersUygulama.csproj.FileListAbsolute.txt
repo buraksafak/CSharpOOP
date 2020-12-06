@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\C#\OOP\StaticMembersUygulama\obj\Debug\netcoreapp3.1\StaticMembersUygulama.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C#\OOP\StaticMembersUygulama\obj\Debug\netcoreapp3.1\StaticMembersUygulama.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C#\OOP\StaticMembersUygulama\obj\Debug\netcoreapp3.1\StaticMembersUygulama.AssemblyInfo.cs
+C:\Users\asus\Desktop\C#\OOP\StaticMembersUygulama\obj\Debug\netcoreapp3.1\StaticMembersUygulama.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\OOP\StaticMembersUygulama\bin\Debug\netcoreapp3.1\StaticMembersUygulama.exe
+C:\Users\asus\Desktop\C#\OOP\StaticMembersUygulama\bin\Debug\netcoreapp3.1\StaticMembersUygulama.deps.json
+C:\Users\asus\Desktop\C#\OOP\StaticMembersUygulama\bin\Debug\netcoreapp3.1\StaticMembersUygulama.runtimeconfig.json
+C:\Users\asus\Desktop\C#\OOP\StaticMembersUygulama\bin\Debug\netcoreapp3.1\StaticMembersUygulama.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C#\OOP\StaticMembersUygulama\bin\Debug\netcoreapp3.1\StaticMembersUygulama.dll
+C:\Users\asus\Desktop\C#\OOP\StaticMembersUygulama\bin\Debug\netcoreapp3.1\StaticMembersUygulama.pdb
+C:\Users\asus\Desktop\C#\OOP\StaticMembersUygulama\obj\Debug\netcoreapp3.1\StaticMembersUygulama.dll
+C:\Users\asus\Desktop\C#\OOP\StaticMembersUygulama\obj\Debug\netcoreapp3.1\StaticMembersUygulama.pdb
+C:\Users\asus\Desktop\C#\OOP\StaticMembersUygulama\obj\Debug\netcoreapp3.1\StaticMembersUygulama.genruntimeconfig.cache
