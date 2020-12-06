@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\C#\OOP\StaticMembers\bin\Debug\netcoreapp3.1\StaticMembers.exe
+C:\Users\asus\Desktop\C#\OOP\StaticMembers\bin\Debug\netcoreapp3.1\StaticMembers.deps.json
+C:\Users\asus\Desktop\C#\OOP\StaticMembers\bin\Debug\netcoreapp3.1\StaticMembers.runtimeconfig.json
+C:\Users\asus\Desktop\C#\OOP\StaticMembers\bin\Debug\netcoreapp3.1\StaticMembers.runtimeconfig.dev.json
+C:\Users\asus\Desktop\C#\OOP\StaticMembers\bin\Debug\netcoreapp3.1\StaticMembers.dll
+C:\Users\asus\Desktop\C#\OOP\StaticMembers\bin\Debug\netcoreapp3.1\StaticMembers.pdb
+C:\Users\asus\Desktop\C#\OOP\StaticMembers\obj\Debug\netcoreapp3.1\StaticMembers.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C#\OOP\StaticMembers\obj\Debug\netcoreapp3.1\StaticMembers.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C#\OOP\StaticMembers\obj\Debug\netcoreapp3.1\StaticMembers.AssemblyInfo.cs
+C:\Users\asus\Desktop\C#\OOP\StaticMembers\obj\Debug\netcoreapp3.1\StaticMembers.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\OOP\StaticMembers\obj\Debug\netcoreapp3.1\StaticMembers.dll
+C:\Users\asus\Desktop\C#\OOP\StaticMembers\obj\Debug\netcoreapp3.1\StaticMembers.pdb
+C:\Users\asus\Desktop\C#\OOP\StaticMembers\obj\Debug\netcoreapp3.1\StaticMembers.genruntimeconfig.cache
