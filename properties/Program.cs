@@ -55,6 +55,6 @@ namespace Properties
             p.Price = -3000;
                 Console.WriteLine(p.Price);
 
-        }Q
+        }
     }
 }
